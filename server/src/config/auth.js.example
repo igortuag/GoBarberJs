@@ -1,4 +1,0 @@
-export default {
-  secret: '', // secret for jwt token
-  expiresIn: '' // time to expire jwt token
-};

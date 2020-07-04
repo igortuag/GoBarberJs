@@ -1,5 +1,4 @@
 /node_modules/
-/src/config/auth.js
-/src/config/mail.js
 *.log
 *.lock
+.env
